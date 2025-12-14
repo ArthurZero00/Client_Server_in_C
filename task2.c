@@ -1,8 +1,7 @@
 /*
-Իմպլեմենտացնել ֆայլի փոխանցման համակարգ,
- որտեղ client-ը հարցում է ուղարկում ֆայլի անունով,
-  իսկ server-ը հետ է ուղարկում ֆայլի պարունակությունը, եթե այն գոյություն ունի։
-*/
+ * Implement a file transfer system where the client sends a request with a filename,
+ * and the server sends back the file's content if it exists.
+ */
 
 #include <stdio.h>
 #include <stdlib.h>

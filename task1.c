@@ -1,7 +1,7 @@
-/*Իրականացնել Client-Server ծրագիր, որտեղ client-ը server-ին ուղարկում է տող, 
- server-ն այն ընդունում է, ձևափոխված ուղարկում է client-ին՝ որպես պատասխան։
-
-*/
+/*
+ * Implement a Client-Server program where the client sends a string to the server,
+ * the server receives it, transforms it, and sends it back to the client as a response.
+ */
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,8 +1,9 @@
 /*
-Իմպլեմենտացնել Client-Server ծրագիր, որտեղ client-ը server-ին անվերջ ցիկլով  ուղարկում է user-ի կողմից 
-մուտքագրված թիվ,  սերվերը ստուգում է՝ արդյոք  տվյալ թիվը համարվում է Արմսթրոնգի թիվ,
- թե ոչ։ Եթե համապատասխանում է պահանջներին  server-ը որպես պատասխան client-ին ուղարկում է “Yes”, հակառակ դեպքում “No”։
-*/
+ * Implement a Client-Server program where the client sends numbers entered by the user
+ * in an infinite loop. The server checks if the given number is an Armstrong number or not.
+ * If it matches the requirements, the server sends "Yes" as a response to the client,
+ * otherwise "No".
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
