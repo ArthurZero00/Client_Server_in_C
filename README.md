@@ -1,4 +1,4 @@
-# June Tasks - Client-Server Programs
+# Client-Server Programs
 
 [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://www.cprogramming.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
