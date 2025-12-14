@@ -98,7 +98,7 @@ gcc task3.c -o task3 -lm
 ## Project Structure
 
 ```
-june_tasks/
+Client_Server_in_C/
 ├── README.md          # Project documentation
 ├── task1.c            # String transformation server
 ├── task2.c            # File transfer system
